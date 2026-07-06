@@ -1,9 +1,9 @@
 
 ---
 
-# Retail Sales ETL Pipeline 🛒
+# Retail Sales ETL Pipeline 
 
-## 📌 Overview
+##  Overview
 This project implements an **ETL (Extract, Transform, Load) pipeline** for retail sales data. It is designed to:
 - Extract raw sales data from CSV files
 - Transform and clean the data (date parsing, feature engineering)
@@ -13,7 +13,7 @@ This project implements an **ETL (Extract, Transform, Load) pipeline** for retai
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 ```
 Retail_Sales_ETL_Pipeline/
 │
@@ -50,7 +50,7 @@ Retail_Sales_ETL_Pipeline/
 
 ---
 
-## ⚙️ Installation
+##  Installation
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/Retail_Sales_ETL_Pipeline.git
@@ -71,7 +71,7 @@ Retail_Sales_ETL_Pipeline/
 
 ---
 
-## 🚀 Usage
+##  Usage
 
 ### 1. Prepare Data
 Place your raw CSV in:
@@ -109,7 +109,7 @@ Upload a CSV with the required columns, and the dashboard will show predictions.
 
 ---
 
-## 📓 Exploration Notebook
+##  Exploration Notebook
 Open:
 ```bash
 jupyter notebook notebooks/exploration.ipynb
@@ -122,7 +122,7 @@ This notebook demonstrates:
 
 ---
 
-## 🧪 Testing
+##  Testing
 Run unit tests:
 ```bash
 pytest tests/
